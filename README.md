@@ -6,20 +6,20 @@
 
 - init.vim
 
-~\Appdata\Local\nvim\init.vim  
+`~\Appdata\Local\nvim\init.vim`  
 neovimの設定ファイル
 
 - ginit.vim
 
-~\Appdata\Local\nvim\ginit/vim  
+`~\Appdata\Local\nvim\ginit/vim`  
 nvim-qt.exe(GUI版)の設定ファイル
 
 - colors
 
-~\Appdata\Local\nvim\colors  
+`~\Appdata\Local\nvim\colors`  
 カラースキームの格納場所
 
 - plugin
 
-~\AppData\Local\nvim\plugin  
+`~\AppData\Local\nvim\plugin`  
 プラグインの格納場所
