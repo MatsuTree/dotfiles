@@ -11,7 +11,7 @@ neovimの設定ファイル
 
 - ginit.vim
 
-`~\Appdata\Local\nvim\ginit/vim`  
+`~\Appdata\Local\nvim\ginit.vim`  
 nvim-qt.exe(GUI版)の設定ファイル
 
 - colors
